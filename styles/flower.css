@@ -1,0 +1,97 @@
+
+/* header related styles */
+
+.btn-primary{
+    border-radius: 5px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px  35px;
+}
+
+.header{
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner{
+    padding: 20px 130px 0px 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-content{
+    max-width: 500px;
+}
+
+.banner .profile-pic{
+    width: 450px;
+}
+.banner-greeting{
+    font-size: 45px;
+    color: #272727;
+    margin-bottom: 0;
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+}
+
+/* Hot deal--section */
+.banner-content-11{
+    text-align: center;
+}
+.text{
+    color: #E55473;
+}
+
+/* Instagram--section */
+.instagram{
+    
+    text-align: center;
+}
+.profile-4-pics{
+    padding: 15px 30px 60px 50px;
+}
+.pic-gap{
+    padding: 5px;
+}
+
+/* Subscribe--section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer releted styles */
+
+.footer{
+    background: #111010;
+}
+.footer-content{
+    text-align: center;
+    padding: 30px;
+}
+.footer-title{
+    color: #FFFFFF;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.footer-describtion{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+}
+.end-pera{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+}
