@@ -51,26 +51,31 @@
     text-align: center;
 }
 .profile-4-pics{
-    padding: 15px 30px 60px 50px;
+    padding: 15px 30px 60px 40px;
 }
 .pic-gap{
     padding: 5px;
 }
 
 /* Subscribe--section */
-
-
-
-
-
-
-
-
-
-
-
-
-
+.get{
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    padding: 15px 30px 70px 80px;
+}
+.subscribe{
+    text-align: center;
+    padding: 15px 30px 15px 30px;
+}
+.text-email{
+    border-radius: 5px;
+    background: white;
+    border: 0;
+    color: black;
+    font-size: 20px;
+    padding: 15px  30px;
+}
 
 /* footer releted styles */
 
